@@ -27,7 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ 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 }}
-          external_repository: your-username/your-repo-name
+          deploy_key: ${{ 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 }}
           publish_branch: gh-pages
           publish_dir: ./
