@@ -30,4 +30,4 @@ jobs:
           deploy_key: ${{ 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 }}
           external_repository: your-username/your-repo-name
           publish_branch: gh-pages
-          publish_dir: ./path-to-your-build-directory
+          publish_dir: ./
